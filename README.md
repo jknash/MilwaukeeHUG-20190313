@@ -1,0 +1,2 @@
+# MilwaukeeHUGMeetup-20190313
+Files from the march 13th Milwaukee HashiCorp user group Meetup.  They are meant to be starter files.  In order to use the local copies you will have to reconfigure things to authenticate to your own Azure environment or modify them to be used out in the Azure command shell environment.  There is also a pdf of the presentation.
